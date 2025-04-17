@@ -1,4 +1,4 @@
-# Loch Sports Beta
+# Loch Sports Beta [ARCHIVED]
 
 Welcome to the **Loch Sports Beta**, now live for iOS on [TestFlight](https://testflight.apple.com/join/34j9sSJr)! 🏈
 
